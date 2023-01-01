@@ -1,0 +1,7 @@
+# coding=utf8
+Flask
+flask-cors
+pyMySQL
+gevent
+requests
+faker
